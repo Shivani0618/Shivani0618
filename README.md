@@ -69,4 +69,4 @@
 ### 📬 Let's Connect!
 - 🔗 **[LinkedIn](https://www.linkedin.com/in/shivani-sharma-ab598a2a7/)**
 - 📧 **manrek.shivani8@gmail.com**
-- 📄 [Resume]()
+- 📄 [Resume](https://github.com/Shivani0618/Resume/blob/main/Resume.pdf)
