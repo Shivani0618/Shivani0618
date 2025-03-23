@@ -12,9 +12,9 @@
   <a href="https://leetcode.com/u/Shivaani_18/">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
-<!--   <a href="https://github.com/khushi-narang/Resume">
+<a href="(https://github.com/Shivani0618/Resume/blob/main/Resume.pdf)">
     <img src="https://img.shields.io/badge/Resume-%23FF5733.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a> -->
+  </a> 
 </p>
 
 
